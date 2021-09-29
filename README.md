@@ -14,8 +14,9 @@ Projeyi klonladıktan sonra Visual Stduio Code programında açınız.
 
 Linux için :
 
-``` cd kodluyoruzilkrepo ```
-code ```
+``` cd kodluyoruzilkrepo 
+code 
+```
 	
 	
 # Contibuting
