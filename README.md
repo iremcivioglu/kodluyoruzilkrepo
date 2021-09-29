@@ -10,11 +10,12 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 # Usage
 
-Projeyi klonladıktan sonra Visual Stduio Code programında açınız.
+Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 
 Linux için :
 
-``` cd kodluyoruzilkrepo 
+``` 
+cd kodluyoruzilkrepo 
 code 
 ```
 	
