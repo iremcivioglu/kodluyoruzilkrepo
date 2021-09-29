@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 Öncelikle projeyi klonlayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-'git clone https://github.com/iremcivioglu/kodluyoruzilkrepo.git'
+`git clone https://github.com/iremcivioglu/kodluyoruzilkrepo.git`
 
 # Usage
 
@@ -14,9 +14,9 @@ Projeyi klonladıktan sonra Visual Stduio Code programında açınız.
 
 Linux için :
 
-''' cd kodluyoruzilkrepo 
+``` cd kodluyoruzilkrepo 
     code 
-	'''
+	```
 	
 # Contibuting
 
